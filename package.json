@@ -1,0 +1,34 @@
+{
+  "name": "torrent-vision",
+  "version": "1.0.0",
+  "description": "torrent-vision (tv) gives you the ability to stream torrents straight to your tv (television)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshterrill/torrent-vision.git"
+  },
+  "keywords": [
+    "tv",
+    "television",
+    "torrent",
+    "vision",
+    "torrent",
+    "bittorrent",
+    "bit",
+    "torrent",
+    "streaming",
+    "media",
+    "video",
+    "peer",
+    "p2p"
+  ],
+  "author": "Josh Terrill",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joshterrill/torrent-vision/issues"
+  },
+  "homepage": "https://github.com/joshterrill/torrent-vision#readme"
+}
